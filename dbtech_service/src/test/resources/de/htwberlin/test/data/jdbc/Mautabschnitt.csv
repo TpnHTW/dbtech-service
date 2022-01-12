@@ -1,0 +1,26 @@
+ABSCHNITTS_ID,      LAENGE,      START_KOORDINATE,      ZIEL_KOORDINATE,      NAME,      ABSCHNITTSTYP
+136,3400,      50.324 11.793,      50.343 11.831,      Bayerisches Vogtland Dreieck - Hof-Nord,      A72
+3750,5300,      50.373 11.792,      50.408 11.775,      Berg/Bad Steben - Rudolphstein,      A9
+3645,4600,      50.444 11.803,      50.408 11.775,      Bad Lobenstein - Rudolphstein,      A9
+2560,4600,      49.665 11.468,      49.706 11.468,      Plech - Weidensees,      A9
+2572,6800,      49.665 11.468,      49.621 11.408,      Plech - Hormersdorf,      A9
+683,6800,      49.621 11.408,      49.665 11.468,      Hormersdorf - Plech,      A9
+695,8800,      49.621 11.408,      49.566 11.33,      Hormersdorf - Schnaittach,      A9
+138,2700,      51.436 6.604,      51.458 6.592,      Moers Kreuz - Moers-Hoelsdonk,      A57
+137,11200,      52.203 7.812,      52.268 7.927,      Lengerich - Lotte/Osnabrueck Kreuz,      A1
+92,5700,      53.566 10.326,      53.56 10.41,      Witzhave - Schwarzenbek/Grande,      A24
+89,6600,      53.566 10.326,      53.559 10.229,      Witzhave - Reinbek,      A24
+90,2500,      53.035 8.624,      53.031 8.66,      Delmenhorst-Adelheide - Delmenhorst-Hasport,      A28
+94,4100,      52.721 7.165,      52.758 7.163,      Meppen - Wesuwe,      A31
+96,7300,      53.129 13.881,      53.187 13.932,      Pfingstberg - Warnitz,      A11
+1433,4100,      52.3 13.084,      52.3 13.026,      Nuthetal Dreieck - Michendorf,      A10
+95,7100,      48.09 8.593,      48.033 8.619,      Villingen-Schwenningen - Tuningen,      A81
+135,2500,      47.841 9.022,      47.838 8.989,      Stockach-Ost - Stockach-West,      A98
+93,600,      50.892 6.688,      50.895 6.696,      Kerpen - Kerpen Kreuz,      A4
+91,8800,      50.892 6.688,      50.885 6.566,      Kerpen - Buir,      A4
+4174,5900,	52.324 13.75,	52.313 13.663,	Spreeau Dreieck - Niederlehme,	A10
+461,5700,	52.309 13.289,	52.302 13.209,	Ludwigsfelde-Ost - Ludwigsfelde-West,	A10
+1200,7000,	48.726 9.068,	48.776 9.024,	Stuttgart Kreuz - Leonberg-Ost,	A8
+783,	3200,	48.083 11.596,	48.054 11.595,	Unterhaching-Nord - Taufkirchen-West,	B13
+2660,	1400,	48.094 11.588,	48.083 11.596,	Muenchen-Giesing - Unterhaching-Nord,	B13
+1831,	2500,	48.034 11.608,	48.054 11.595,	Oberhaching - Taufkirchen-West,	B13

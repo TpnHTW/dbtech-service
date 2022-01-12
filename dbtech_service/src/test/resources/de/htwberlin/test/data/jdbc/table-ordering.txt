@@ -1,0 +1,12 @@
+Mautabschnitt
+Nutzer
+Schadstoffklasse
+Mautkategorie
+Rechnunngsstatus
+Fahrzeug
+Fahrzeuggerat
+Mauterhebung
+Buchungstatus
+Buchung
+Zahltyp
+Zahlart

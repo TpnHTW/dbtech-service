@@ -1,0 +1,14 @@
+Z_ID,      ZTYP_ID,      NUTZER_ID,      STATUS,      GUELTIG_VON,      GUELTIG_BIS,      BETRAG,      EMMITENT,      NAME,      VORNAME,      NACHNAME,      BIN_CODE
+100,2,1000000,      active,      2005-01-01,        null,        null,        null,      AMEX,      Walter,      Krug,89715
+101,3,1000001,      active,      2009-08-07,        null,        null,      ESSO,        null,        null,        null,        null
+102,2,1000002,      inactive,    2009-06-01,      2010-09-30,        null,        null,      AirPlus,      Reiner,      Adel,8787
+103,3,1000002,      active,      2010-10-01,        null,        null,      AGIP,        null,        null,        null,        null
+104,3,1000003,      inactive,    2010-06-05,      2013-11-10,        null,      TAMOIL,        null,        null,        null,        null
+105,2,1000003,      inactive,    2013-11-11,      2014-01-14,        null,        null,      VISA,      Franziska,      Hoffmann,83742
+106,1,1000003,      active,      2014-01-14,        null,      4999.15,        null,        null,        null,        null,        null
+107,3,1000004,      active,      2012-08-05,        null,        null,      EuroShell,        null,        null,        null,        null
+108,2,1000005,      active,      2013-05-23,        null,        null,        null,      AirPlus,      Dariusz,      Nowak,25874
+109,1,1000006,      active,      2013-07-22,        null,      21.35,        null,        null,        null,        null,        null
+110,2,1000007,      active,      2011-12-18,        null,        null,        null,      VISA,      Adamina,      Vanda,59794
+111,3,1000008,      active,      2010-11-15,        null,        null,      EuroShell,        null,        null,        null,        null
+112,3,1000009,      active,      2009-04-28,        null,        null,      TAMOIL,        null,        null,        null,        null
